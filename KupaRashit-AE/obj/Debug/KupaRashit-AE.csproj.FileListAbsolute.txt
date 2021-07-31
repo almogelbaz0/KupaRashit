@@ -1,0 +1,7 @@
+C:\Users\Almog\source\repos\KupaRashit-AE\KupaRashit-AE\bin\Debug\KupaRashit-AE.exe.config
+C:\Users\Almog\source\repos\KupaRashit-AE\KupaRashit-AE\bin\Debug\KupaRashit-AE.exe
+C:\Users\Almog\source\repos\KupaRashit-AE\KupaRashit-AE\bin\Debug\KupaRashit-AE.pdb
+C:\Users\Almog\source\repos\KupaRashit-AE\KupaRashit-AE\obj\Debug\KupaRashit-AE.csprojAssemblyReference.cache
+C:\Users\Almog\source\repos\KupaRashit-AE\KupaRashit-AE\obj\Debug\KupaRashit-AE.csproj.CoreCompileInputs.cache
+C:\Users\Almog\source\repos\KupaRashit-AE\KupaRashit-AE\obj\Debug\KupaRashit-AE.exe
+C:\Users\Almog\source\repos\KupaRashit-AE\KupaRashit-AE\obj\Debug\KupaRashit-AE.pdb
